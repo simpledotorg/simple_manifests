@@ -1,0 +1,16 @@
+{
+  "version": "3",
+  "countries": [
+    {
+      "country_code": "IN",
+      "display_name": "India",
+      "isd_code": "91",
+      "deployments": [
+        {
+          "display_name": "LocalHost",
+          "endpoint": "http://10.0.2.2:3000/api/"
+        }
+      ]
+    }
+  ]
+}
