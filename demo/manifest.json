@@ -30,7 +30,7 @@
       "deployments": [
         {
           "display_name": "Ethiopia",
-          "endpoint": "https://api-demo.simple.org/api/"
+          "endpoint": "https://simple-demo.moh.gov.et/api/"
         }
       ]
     },
