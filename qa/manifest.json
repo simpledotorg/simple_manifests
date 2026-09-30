@@ -2,21 +2,6 @@
   "version": "3",
   "countries": [
     {
-      "country_code": "IN",
-      "display_name": "India",
-      "isd_code": "91",
-      "deployments": [
-        {
-          "display_name": "India",
-          "endpoint": "https://api-qa.simple.org/api/"
-        },
-        {
-          "display_name": "India test deployment",
-          "endpoint": "https://api-qa.simple.org/api/"
-        }
-      ]
-    },
-    {
       "country_code": "BD",
       "display_name": "Bangladesh",
       "isd_code": "880",

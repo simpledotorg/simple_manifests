@@ -1,12 +1,6 @@
 {
   "v1": [
     {
-      "country_code": "IN",
-      "endpoint": "https://api.simple.org/api/",
-      "display_name": "India",
-      "isd_code": "91"
-    },
-    {
       "country_code": "BD",
       "endpoint": "https://api.bd.simple.org/api/",
       "display_name": "Bangladesh",
@@ -33,17 +27,6 @@
   ],
   "v2": {
     "countries": [
-      {
-        "country_code": "IN",
-        "display_name": "India",
-        "isd_code": "91",
-        "deployments": [
-          {
-            "display_name": "IHCI",
-            "endpoint": "https://api.simple.org/api/"
-          }
-        ]
-      },
       {
         "country_code": "BD",
         "display_name": "Bangladesh",
